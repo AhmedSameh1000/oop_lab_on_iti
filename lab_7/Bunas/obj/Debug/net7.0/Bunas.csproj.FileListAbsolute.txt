@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\bin\Debug\net7.0\Bunas.exe
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\bin\Debug\net7.0\Bunas.deps.json
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\bin\Debug\net7.0\Bunas.runtimeconfig.json
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\bin\Debug\net7.0\Bunas.dll
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\bin\Debug\net7.0\Bunas.pdb
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.dll
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\refint\Bunas.dll
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.pdb
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\Bunas.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\oop_lab\lab_6\Bunas\obj\Debug\net7.0\ref\Bunas.dll

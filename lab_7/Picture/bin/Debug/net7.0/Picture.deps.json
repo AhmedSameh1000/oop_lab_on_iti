@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Picture/1.0.0": {
+        "dependencies": {
+          "My_shaps_library": "1.0.0"
+        },
+        "runtime": {
+          "Picture.dll": {}
+        }
+      },
+      "My_shaps_library/1.0.0": {
+        "runtime": {
+          "My_shaps_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Picture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "My_shaps_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
